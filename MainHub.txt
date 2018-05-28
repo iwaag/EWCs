@@ -1,0 +1,4 @@
+Logo is at upper-center.
+Buttons "Start" and "Option" and "Quit" are at middle-center.
+If player hit button "Start", game begins.
+If player hit button "Quit", system quits.
