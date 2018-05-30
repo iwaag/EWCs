@@ -1,1 +1,2 @@
-Fade out and clear spaces if it's dark.
+Fade out.
+Then, clear spaces.
