@@ -1,0 +1,2 @@
+If all cards are matched, game ends.
+If not, switch player.
