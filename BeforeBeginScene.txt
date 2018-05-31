@@ -1,2 +1,0 @@
-Fade out.
-Then, clear spaces.
