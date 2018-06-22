@@ -1,0 +1,7 @@
+### Introduction ###
+
+Buttons "Start" is at middle-center.
+
+### Teaser ###
+
+Buttons "tek" is at middle-center.
