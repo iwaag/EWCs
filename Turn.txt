@@ -1,5 +1,6 @@
-All of the cards are shuffled and are laid face down on a surface.
-Each turn, two cards are flipped over.
-If the cards do not match, they are both turned back face down.
-If the cards match, they are left face up and the person who made the match receives a point.
+System shuffle all of the cards.
+Player lay cards face down on a surface.
+Each turn, player  flip over two cards.
+If the cards do not match, system turned back both cards face down.
+If the cards match, the person who made the match receives a point.
 System show how many points player has.
